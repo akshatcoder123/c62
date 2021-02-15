@@ -1,0 +1,13 @@
+body{
+    background: linear-gradient(#56fc03 0%,#03f4fc 100%);
+    text-align: center;
+    margin-top: 30;
+}
+p {
+    color: blue;
+}
+h2{
+    color: darkorange;
+}
+        
+    
